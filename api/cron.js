@@ -4,6 +4,7 @@ import { diffMatches, hasChanges } from '../lib/diff.js';
 import { notifyTelegram, diffMessage } from '../lib/notify.js';
 
 const KV_KEY = 'mollet_alevi_matches';
+const KV_SUBSCRIBERS = 'telegram_subscribers';
 
 export default async function handler(req, res) {
   // Protección básica: solo POST o header de Vercel Cron
@@ -25,7 +26,8 @@ export default async function handler(req, res) {
     if (hasChanges(diff)) {
       console.log('Canvis detectats:', diff);
       const msg = diffMessage(diff.added, diff.removed, diff.changed);
-      await notifyTelegram(msg);
+      const subscribers = (await kv.get(KV_SUBSCRIBERS)) ?? [];
+      await notifyTelegram(msg, subscribers);
       await kv.set(KV_KEY, current);
     } else {
       console.log('Sense canvis');
