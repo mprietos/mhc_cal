@@ -97,39 +97,112 @@ function analyzeWeekend(matches) {
 }
 
 // ── Render ────────────────────────────────────────────────────────────
+let DATA = null;          // dades carregades
+let nameBySlug = null;    // slug -> calendarName
+
 async function render() {
-  let data;
   try {
     const res = await fetch('/data/matches.json', { cache: 'no-cache' });
-    data = await res.json();
+    DATA = await res.json();
   } catch {
     content.innerHTML = '<p class="error">No s\'han pogut carregar les dades.</p>';
     return;
   }
 
   const updated = document.getElementById('updated');
-  if (data.generatedAt) updated.textContent = `Última actualització: ${formatDateTime(data.generatedAt.replace('Z', '').slice(0, 16))}`;
+  if (DATA.generatedAt) updated.textContent = `Última actualització: ${formatDateTime(DATA.generatedAt.replace('Z', '').slice(0, 16))}`;
 
-  // Només partits futurs, agrupats per cap de setmana.
+  nameBySlug = new Map(DATA.teams.map((t) => [t.slug, t.calendarName]));
+  buildFilterBar();
+  draw();
+}
+
+// Barra de filtres: equip, rang de dates, només avisos.
+function buildFilterBar() {
+  const teamsSorted = [...DATA.teams].sort((a, b) => a.calendarName.localeCompare(b.calendarName));
+  const bar = document.createElement('div');
+  bar.className = 'filters';
+  bar.innerHTML = `
+    <label>Equip
+      <select id="f-team">
+        <option value="">Tots els equips</option>
+        ${teamsSorted.map((t) => `<option value="${t.slug}">${t.calendarName}</option>`).join('')}
+      </select>
+    </label>
+    <label>Des de <input type="date" id="f-from" /></label>
+    <label>Fins a <input type="date" id="f-to" /></label>
+    <label class="chk"><input type="checkbox" id="f-alerts" /> Només amb avisos</label>
+    <button id="f-reset" class="btn ghost">Neteja</button>
+  `;
+  content.before(bar);
+
+  bar.addEventListener('input', draw);
+  bar.querySelector('#f-reset').addEventListener('click', (e) => {
+    e.preventDefault();
+    bar.querySelector('#f-team').value = '';
+    bar.querySelector('#f-from').value = '';
+    bar.querySelector('#f-to').value = '';
+    bar.querySelector('#f-alerts').checked = false;
+    draw();
+  });
+}
+
+function currentFilters() {
+  return {
+    team: document.getElementById('f-team')?.value || '',
+    from: document.getElementById('f-from')?.value || '',
+    to: document.getElementById('f-to')?.value || '',
+    onlyAlerts: document.getElementById('f-alerts')?.checked || false,
+  };
+}
+
+function draw() {
+  const f = currentFilters();
+  const teamLabel = (m) => m.teams.map((s) => nameBySlug.get(s) || s).join(' / ');
+
+  // Per defecte, només partits futurs. Si l'usuari posa "Des de", respectem-la.
+  const minDate = f.from ? f.from : null;
   const today = startOfToday();
-  const future = data.matches
-    .filter((m) => { const d = parseMatchDate(m.date); return d && d >= today; })
+
+  const visible = DATA.matches
+    .filter((m) => {
+      const d = parseMatchDate(m.date);
+      if (!d) return false;
+      const dayStr = m.date.slice(0, 10);
+      if (minDate) { if (dayStr < minDate) return false; }
+      else if (d < today) return false;        // sense "des de" -> només futurs
+      if (f.to && dayStr > f.to) return false;
+      if (f.team && !m.teams.includes(f.team)) return false;
+      return true;
+    })
     .sort((a, b) => a.date.localeCompare(b.date));
 
   const byWeekend = new Map();
-  for (const m of future) {
+  for (const m of visible) {
     const k = weekendKey(m.date);
     if (!byWeekend.has(k)) byWeekend.set(k, []);
     byWeekend.get(k).push(m);
   }
 
-  // mapa slug -> calendarName per mostrar l'equip
-  const nameBySlug = new Map(data.teams.map((t) => [t.slug, t.calendarName]));
-  const teamLabel = (m) => m.teams.map((s) => nameBySlug.get(s) || s).join(' / ');
-
   content.innerHTML = '';
+  let shownWeekends = 0;
   for (const [wk, matches] of byWeekend) {
-    const { tagById, counts } = analyzeWeekend(matches);
+    // Els avisos es calculen sobre TOTS els partits del cap de setmana (del
+    // dataset sencer), no només els filtrats: un xoc de pista implica altres
+    // equips. Així, encara que filtris un equip, veus si el seu partit xoca.
+    const allOfWeekend = DATA.matches.filter((m) => weekendKey(m.date) === wk);
+    const { tagById } = analyzeWeekend(allOfWeekend);
+
+    // Files a mostrar: les visibles (ja filtrades per equip/dates) i, si cal,
+    // només les que tenen algun avís.
+    let rows = matches;
+    if (f.onlyAlerts) rows = rows.filter((m) => (tagById.get(m.id) || new Set()).size > 0);
+    if (!rows.length) continue;
+    shownWeekends++;
+
+    // Comptadors de la capçalera: sobre les files mostrades.
+    const count = (tag) => rows.filter((m) => (tagById.get(m.id) || new Set()).has(tag)).length;
+    const counts = { clash: count('clash'), conc: count('conc'), load: count('load') };
 
     const sec = document.createElement('section');
     sec.className = 'weekend';
@@ -144,7 +217,7 @@ async function render() {
       <table class="sched">
         <thead><tr><th>Dia/Hora</th><th>Equip</th><th>Partit</th><th>Lloc</th><th>Avís</th></tr></thead>
         <tbody>
-          ${matches.map((m) => {
+          ${rows.map((m) => {
             const tags = tagById.get(m.id) || new Set();
             const rowCls = tags.has('clash') ? 'row-clash' : tags.has('conc') ? 'row-conc' : '';
             const badges = [
@@ -165,5 +238,5 @@ async function render() {
     content.appendChild(sec);
   }
 
-  if (!byWeekend.size) content.innerHTML = '<p class="loading">No hi ha partits futurs.</p>';
+  if (!shownWeekends) content.innerHTML = '<p class="loading">Cap partit amb aquests filtres.</p>';
 }
