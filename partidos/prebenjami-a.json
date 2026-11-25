@@ -1,0 +1,132 @@
+[
+  {
+    "id": "4814-MOLLET_HC_A-CP_MASQUEFA",
+    "date": "2026-09-27T11:15:00",
+    "home": "MOLLET HC A",
+    "away": "CP MASQUEFA",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4814-RIBES_CP_A-MOLLET_HC_A",
+    "date": "2026-11-15T17:00:00",
+    "home": "RIBES CP A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4814-AUTO_VIGATANA_PATI_VIC_A-MOLLET_HC_A",
+    "date": "2026-10-18T12:00:00",
+    "home": "AUTO VIGATANA PATÍ VIC A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4814-MOLLET_HC_A-CH_MATARO_B",
+    "date": "2026-10-24T11:15:00",
+    "home": "MOLLET HC A",
+    "away": "CH MATARÓ B",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4814-CH_LES_FRANQUESES_B-MOLLET_HC_A",
+    "date": "2026-10-31T11:15:00",
+    "home": "CH LES FRANQUESES B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4814-MOLLET_HC_A-HOQUEI_CLUB_CASTELLAR_A",
+    "date": "2026-11-14T15:00:00",
+    "home": "MOLLET HC A",
+    "away": "HOQUEI CLUB CASTELLAR A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4814-CLUB_PATI_VILAFRANCA_AKO_C-MOLLET_HC_A",
+    "date": "2026-11-22T11:30:00",
+    "home": "CLUB PATÍ VILAFRANCA AKO C",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4814-MOLLET_HC_A-HF_SANT_JOSEP_SANT_SADURNI_C",
+    "date": "2026-11-29T14:00:00",
+    "home": "MOLLET HC A",
+    "away": "HF SANT JOSEP SANT SADURNÍ C",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4814-CP_FOLGUEROLES_B-MOLLET_HC_A",
+    "date": "2026-12-12T17:45:00",
+    "home": "CP FOLGUEROLES B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4814-MOLLET_HC_A-CLUB_PATI_VOLTREGA_C",
+    "date": "2026-12-20T14:00:00",
+    "home": "MOLLET HC A",
+    "away": "CLUB PATÍ VOLTREGÀ C",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4814-CLUB_HOQUEI_ARENYS_DE_MAR_A-MOLLET_HC_A",
+    "date": "2027-01-10T10:00:00",
+    "home": "CLUB HOQUEI ARENYS DE MAR A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4814-MOLLET_HC_A-ROTOTANK_BIGUES_I_RIELLS_A",
+    "date": "2027-01-16T10:00:00",
+    "home": "MOLLET HC A",
+    "away": "ROTOTANK BIGUES I RIELLS A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4814-CH_RIPOLLET_B-MOLLET_HC_A",
+    "date": "2027-01-23T16:15:00",
+    "home": "CH RIPOLLET B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Prebenjamí Plata",
+    "venue": "",
+    "status": "scheduled"
+  }
+]

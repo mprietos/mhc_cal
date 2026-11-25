@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4786-PONS_LLEIDA_A-MOLLET_HC_A",
+    "date": "2026-09-27T10:45:00",
+    "home": "PONS LLEIDA A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4786-MOLLET_HC_A-CP_SANT_CELONI_B",
+    "date": "2026-10-03T17:00:00",
+    "home": "MOLLET HC A",
+    "away": "CP SANT CELONI B",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4786-ROTOTANK_BIGUES_I_RIELLS_A-MOLLET_HC_A",
+    "date": "2026-10-11T10:45:00",
+    "home": "ROTOTANK BIGUES I RIELLS A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4786-MOLLET_HC_A-HOQUEI_CLUB_CASTELLAR_A_A",
+    "date": "2026-10-17T11:15:00",
+    "home": "MOLLET HC A",
+    "away": "HOQUEI CLUB CASTELLAR A A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4786-CP_CONGRES_A-MOLLET_HC_A",
+    "date": "2026-10-24T16:15:00",
+    "home": "CP CONGRÉS A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4786-MOLLET_HC_A-HOQUEI_CLARET_A",
+    "date": "2026-11-08T11:45:00",
+    "home": "MOLLET HC A",
+    "away": "HOQUEI CLARET A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4786-MOLLET_HC_A-PONS_LLEIDA_A",
+    "date": "2026-11-14T11:15:00",
+    "home": "MOLLET HC A",
+    "away": "PONS LLEIDA A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4786-CP_SANT_CELONI_B-MOLLET_HC_A",
+    "date": "2026-11-21T16:30:00",
+    "home": "CP SANT CELONI B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4786-MOLLET_HC_A-ROTOTANK_BIGUES_I_RIELLS_A",
+    "date": "2026-11-28T18:30:00",
+    "home": "MOLLET HC A",
+    "away": "ROTOTANK BIGUES I RIELLS A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4786-HOQUEI_CLUB_CASTELLAR_A_A-MOLLET_HC_A",
+    "date": "2026-12-05T19:00:00",
+    "home": "HOQUEI CLUB CASTELLAR A A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4786-MOLLET_HC_A-CP_CONGRES_A",
+    "date": "2026-12-12T18:15:00",
+    "home": "MOLLET HC A",
+    "away": "CP CONGRÉS A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4786-HOQUEI_CLARET_A-MOLLET_HC_A",
+    "date": "2027-01-10T11:15:00",
+    "home": "HOQUEI CLARET A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Infantil Or",
+    "venue": "",
+    "status": "scheduled"
+  }
+]

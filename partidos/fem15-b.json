@@ -1,6 +1,6 @@
 [
   {
-    "id": "MOLLET_HC_A-MOLLET_HC_B",
+    "id": "4802-MOLLET_HC_A-MOLLET_HC_B",
     "date": "2026-09-26T11:15:00",
     "home": "MOLLET HC A",
     "away": "MOLLET HC B",
@@ -10,7 +10,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_B-CLUB_PATI_VOLTREGA_A",
+    "id": "4802-MOLLET_HC_B-CLUB_PATI_VOLTREGA_A",
     "date": "2026-10-04T16:00:00",
     "home": "MOLLET HC B",
     "away": "CLUB PATÍ VOLTREGÀ A",
@@ -20,7 +20,7 @@
     "status": "played"
   },
   {
-    "id": "GENERALI_HC_PALAU_A-MOLLET_HC_B",
+    "id": "4802-GENERALI_HC_PALAU_A-MOLLET_HC_B",
     "date": "2026-10-11T17:30:00",
     "home": "GENERALI HC PALAU A",
     "away": "MOLLET HC B",
@@ -30,7 +30,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_B-ROTOTANK_BIGUES_I_RIELLS",
+    "id": "4802-MOLLET_HC_B-ROTOTANK_BIGUES_I_RIELLS",
     "date": "2026-10-17T12:30:00",
     "home": "MOLLET HC B",
     "away": "ROTOTANK BIGUES I RIELLS",
@@ -40,7 +40,7 @@
     "status": "played"
   },
   {
-    "id": "OXFORD_HC_SALT-MOLLET_HC_B",
+    "id": "4802-OXFORD_HC_SALT-MOLLET_HC_B",
     "date": "2026-10-24T17:00:00",
     "home": "OXFORD HC SALT",
     "away": "MOLLET HC B",
@@ -50,7 +50,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_B-CLUB_PATI_VILA-SANA_A",
+    "id": "4802-MOLLET_HC_B-CLUB_PATI_VILA-SANA_A",
     "date": "2026-10-31T18:00:00",
     "home": "MOLLET HC B",
     "away": "CLUB PATÍ VILA-SANA A",
@@ -60,7 +60,7 @@
     "status": "played"
   },
   {
-    "id": "CLUB_PATI_RODA-MOLLET_HC_B",
+    "id": "4802-CLUB_PATI_RODA-MOLLET_HC_B",
     "date": "2026-11-07T15:30:00",
     "home": "CLUB PATÍ RODA",
     "away": "MOLLET HC B",
@@ -70,7 +70,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_B-IGUALADA_FEMENI_HCP_A",
+    "id": "4802-MOLLET_HC_B-IGUALADA_FEMENI_HCP_A",
     "date": "2026-11-15T16:15:00",
     "home": "MOLLET HC B",
     "away": "IGUALADA FEMENÍ HCP A",
@@ -80,7 +80,7 @@
     "status": "played"
   },
   {
-    "id": "CH_MATARO-MOLLET_HC_B",
+    "id": "4802-CH_MATARO-MOLLET_HC_B",
     "date": "2026-11-22T12:30:00",
     "home": "CH MATARÓ",
     "away": "MOLLET HC B",
@@ -90,7 +90,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_B-FARNERS",
+    "id": "4802-MOLLET_HC_B-FARNERS",
     "date": "2026-11-29T17:45:00",
     "home": "MOLLET HC B",
     "away": "FARNERS",
@@ -100,7 +100,7 @@
     "status": "scheduled"
   },
   {
-    "id": "HOQUEI_CLUB_ALPICAT-MOLLET_HC_B",
+    "id": "4802-HOQUEI_CLUB_ALPICAT-MOLLET_HC_B",
     "date": "2026-12-05T10:00:00",
     "home": "HOQUEI CLUB ALPICAT",
     "away": "MOLLET HC B",
@@ -110,7 +110,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_B-INNOAESTHETICS_HC_SANT_JUST",
+    "id": "4802-MOLLET_HC_B-INNOAESTHETICS_HC_SANT_JUST",
     "date": "2026-12-13T16:15:00",
     "home": "MOLLET HC B",
     "away": "INNOAESTHETICS HC SANT JUST",
@@ -120,7 +120,7 @@
     "status": "scheduled"
   },
   {
-    "id": "VICIO_PHC_SANT_CUGAT-MOLLET_HC_B",
+    "id": "4802-VICIO_PHC_SANT_CUGAT-MOLLET_HC_B",
     "date": "2026-12-19T11:15:00",
     "home": "VICIO PHC SANT CUGAT",
     "away": "MOLLET HC B",
@@ -130,7 +130,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_B-IGUALADA_HC",
+    "id": "4802-MOLLET_HC_B-IGUALADA_HC",
     "date": "2027-01-10T11:00:00",
     "home": "MOLLET HC B",
     "away": "IGUALADA HC",
@@ -140,7 +140,7 @@
     "status": "scheduled"
   },
   {
-    "id": "CLUB_HOQUEI_ARENYS_DE_MAR-MOLLET_HC_B",
+    "id": "4802-CLUB_HOQUEI_ARENYS_DE_MAR-MOLLET_HC_B",
     "date": "2027-01-17T11:00:00",
     "home": "CLUB HOQUEI ARENYS DE MAR",
     "away": "MOLLET HC B",
@@ -150,7 +150,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_B-HOQUEI_CLUB_CASTELLAR",
+    "id": "4802-MOLLET_HC_B-HOQUEI_CLUB_CASTELLAR",
     "date": "2027-01-24T11:00:00",
     "home": "MOLLET HC B",
     "away": "HOQUEI CLUB CASTELLAR",
@@ -160,7 +160,7 @@
     "status": "scheduled"
   },
   {
-    "id": "SANT_CELONI-MOLLET_HC_B",
+    "id": "4802-SANT_CELONI-MOLLET_HC_B",
     "date": "2027-01-31T10:00:00",
     "home": "SANT CELONI",
     "away": "MOLLET HC B",
@@ -170,7 +170,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_B-GENERALI_HC_PALAU_B",
+    "id": "4802-MOLLET_HC_B-GENERALI_HC_PALAU_B",
     "date": "2027-02-14T11:00:00",
     "home": "MOLLET HC B",
     "away": "GENERALI HC PALAU B",
@@ -180,7 +180,7 @@
     "status": "scheduled"
   },
   {
-    "id": "CLUB_PATI_VOLTREGA_B-MOLLET_HC_B",
+    "id": "4802-CLUB_PATI_VOLTREGA_B-MOLLET_HC_B",
     "date": "2027-02-21T16:30:00",
     "home": "CLUB PATÍ VOLTREGÀ B",
     "away": "MOLLET HC B",
@@ -190,7 +190,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_B-FENIE_ENERGIA_CERDANYOLA_CCH_B",
+    "id": "4802-MOLLET_HC_B-FENIE_ENERGIA_CERDANYOLA_CCH_B",
     "date": "2027-03-07T11:00:00",
     "home": "MOLLET HC B",
     "away": "FENIE ENERGIA CERDANYOLA CCH B",
@@ -200,7 +200,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MARTINELIA_MANLLEU_B-MOLLET_HC_B",
+    "id": "4802-MARTINELIA_MANLLEU_B-MOLLET_HC_B",
     "date": "2027-03-14T13:45:00",
     "home": "MARTINELIA MANLLEU B",
     "away": "MOLLET HC B",
@@ -210,7 +210,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_B-FUTBOL_CLUB_MARTINENC",
+    "id": "4802-MOLLET_HC_B-FUTBOL_CLUB_MARTINENC",
     "date": "2027-03-21T11:00:00",
     "home": "MOLLET HC B",
     "away": "FUTBOL CLUB MARTINENC",
@@ -220,7 +220,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MARTINELIA_MANLLEU_A-MOLLET_HC_B",
+    "id": "4802-MARTINELIA_MANLLEU_A-MOLLET_HC_B",
     "date": "2027-04-04T13:45:00",
     "home": "MARTINELIA MANLLEU A",
     "away": "MOLLET HC B",
@@ -230,7 +230,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_B-FENIE_ENERGIA_CERDANYOLA_CCH_A",
+    "id": "4802-MOLLET_HC_B-FENIE_ENERGIA_CERDANYOLA_CCH_A",
     "date": "2027-04-11T11:00:00",
     "home": "MOLLET HC B",
     "away": "FENIE ENERGIA CERDANYOLA CCH A",

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "4780-INNOAESTHETICS_HC_SANT_JUST-MOLLET_HC",
+    "date": "2026-09-26T16:30:00",
+    "home": "INNOAESTHETICS HC SANT JUST",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Municipal de Sant Just Desvern, Sant Just Desvern",
+    "status": "played"
+  },
+  {
+    "id": "4780-MOLLET_HC-CLUB_HOQUEI_SANTA_PERPETUA",
+    "date": "2026-10-03T18:15:00",
+    "home": "MOLLET HC",
+    "away": "CLUB HOQUEI SANTA PERPÈTUA",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4780-ROTOTANK_BIGUES_I_RIELLS-MOLLET_HC",
+    "date": "2026-10-10T12:45:00",
+    "home": "ROTOTANK BIGUES I RIELLS",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Municipal Les Cremades, Camí del Veïnat 5, Bigues i Riells",
+    "status": "played"
+  },
+  {
+    "id": "4780-MOLLET_HC-CLUB_PATI_RODA",
+    "date": "2026-11-07T20:15:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATÍ RODA",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4780-CLUB_PATI_MALGRAT_GRUP_ESCOBAR-MOLLET_HC",
+    "date": "2026-10-23T20:00:00",
+    "home": "CLUB PATÍ MALGRAT GRUP ESCOBAR",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4780-MOLLET_HC-FENIE_ENERGIA_CERDANYOLA_CCH",
+    "date": "2026-11-14T12:30:00",
+    "home": "MOLLET HC",
+    "away": "FENIE ENERGIA CERDANYOLA CCH",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4780-CLUB_PATI_TORRELLES-MOLLET_HC",
+    "date": "2026-11-22T12:15:00",
+    "home": "CLUB PATI TORRELLES",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4780-MOLLET_HC-CH_FIGUERES",
+    "date": "2026-11-29T19:00:00",
+    "home": "MOLLET HC",
+    "away": "CH FIGUERES",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-OXFORD_HC_SALT-MOLLET_HC",
+    "date": "2026-12-13T18:45:00",
+    "home": "OXFORD HC SALT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Municipal de Salt, Carrer de la Sèquia 2, Salt",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-MOLLET_HC-CH_LES_FRANQUESES",
+    "date": "2026-12-20T12:30:00",
+    "home": "MOLLET HC",
+    "away": "CH LES FRANQUESES",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-CHP_SANT_FELIU-MOLLET_HC",
+    "date": "2027-01-09T16:15:00",
+    "home": "CHP SANT FELIU",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-MOLLET_HC-SHUM_SELVAFIL",
+    "date": "2027-01-17T18:00:00",
+    "home": "MOLLET HC",
+    "away": "SHUM SELVAFIL",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-MOLLET_HC-INNOAESTHETICS_HC_SANT_JUST",
+    "date": "2027-01-24T18:00:00",
+    "home": "MOLLET HC",
+    "away": "INNOAESTHETICS HC SANT JUST",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-CLUB_HOQUEI_SANTA_PERPETUA-MOLLET_HC",
+    "date": "2027-01-30T18:30:00",
+    "home": "CLUB HOQUEI SANTA PERPÈTUA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-MOLLET_HC-ROTOTANK_BIGUES_I_RIELLS",
+    "date": "2027-02-14T18:00:00",
+    "home": "MOLLET HC",
+    "away": "ROTOTANK BIGUES I RIELLS",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-CLUB_PATI_RODA-MOLLET_HC",
+    "date": "2027-02-21T16:15:00",
+    "home": "CLUB PATÍ RODA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Municipal d'Esports, Carrer Major 1, Roda de Ter",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-MOLLET_HC-CLUB_PATI_MALGRAT_GRUP_ESCOBAR",
+    "date": "2027-02-28T18:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATÍ MALGRAT GRUP ESCOBAR",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-FENIE_ENERGIA_CERDANYOLA_CCH-MOLLET_HC",
+    "date": "2027-03-21T18:00:00",
+    "home": "FENIE ENERGIA CERDANYOLA CCH",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-MOLLET_HC-CLUB_PATI_TORRELLES",
+    "date": "2027-04-04T18:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATI TORRELLES",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-CH_FIGUERES-MOLLET_HC",
+    "date": "2027-04-10T18:00:00",
+    "home": "CH FIGUERES",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-MOLLET_HC-OXFORD_HC_SALT",
+    "date": "2027-04-25T18:00:00",
+    "home": "MOLLET HC",
+    "away": "OXFORD HC SALT",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-CH_LES_FRANQUESES-MOLLET_HC",
+    "date": "2027-05-01T10:00:00",
+    "home": "CH LES FRANQUESES",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-MOLLET_HC-CHP_SANT_FELIU",
+    "date": "2027-05-09T18:00:00",
+    "home": "MOLLET HC",
+    "away": "CHP SANT FELIU",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4780-SHUM_SELVAFIL-MOLLET_HC",
+    "date": "2027-05-21T21:30:00",
+    "home": "SHUM SELVAFIL",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  }
+]

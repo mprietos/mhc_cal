@@ -1,0 +1,132 @@
+[
+  {
+    "id": "4790-MOLLET_HC_B-HOQUEI_CLARET_A",
+    "date": "2026-09-27T10:00:00",
+    "home": "MOLLET HC B",
+    "away": "HOQUEI CLARET A",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4790-CLUB_HOQUEI_SANTA_PERPETUA_B-MOLLET_HC_B",
+    "date": "2026-10-03T17:15:00",
+    "home": "CLUB HOQUEI SANTA PERPÈTUA B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4790-MOLLET_HC_B-SE_LA_SALLE_BONANOVA_D",
+    "date": "2026-10-11T13:45:00",
+    "home": "MOLLET HC B",
+    "away": "SE LA SALLE BONANOVA D",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4790-CLUB_HOQUEI_MOLINS_DE_REI_A_A-MOLLET_HC_B",
+    "date": "2026-10-18T11:15:00",
+    "home": "CLUB HOQUEI MOLINS DE REI A A",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4790-VICIO_PHC_SANT_CUGAT_-_C-MOLLET_HC_B",
+    "date": "2026-10-24T15:00:00",
+    "home": "VICIO PHC SANT CUGAT - C",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4790-MOLLET_HC_B-FENIE_ENERGIA_CERDANYOLA_CCH_B",
+    "date": "2026-11-01T15:00:00",
+    "home": "MOLLET HC B",
+    "away": "FENIE ENERGIA CERDANYOLA CCH B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4790-GENERALI_HC_PALAU_C_C-MOLLET_HC_B",
+    "date": "2026-11-08T17:30:00",
+    "home": "GENERALI HC PALAU C C",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4790-MOLLET_HC_B-FUTBOL_CLUB_MARTINENC_B_B",
+    "date": "2026-11-15T15:00:00",
+    "home": "MOLLET HC B",
+    "away": "FUTBOL CLUB MARTINENC B B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4790-CH_MATARO_B-MOLLET_HC_B",
+    "date": "2026-11-22T13:45:00",
+    "home": "CH MATARÓ B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4790-MOLLET_HC_B-UEH_BARBERA_B",
+    "date": "2026-11-28T16:00:00",
+    "home": "MOLLET HC B",
+    "away": "UEH BARBERÀ B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4790-CH_RIPOLLET_B-MOLLET_HC_B",
+    "date": "2026-12-12T16:15:00",
+    "home": "CH RIPOLLET B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4790-MOLLET_HC_B-CH_LES_FRANQUESES_B",
+    "date": "2026-12-20T10:00:00",
+    "home": "MOLLET HC B",
+    "away": "CH LES FRANQUESES B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4790-SANT_JOSEP_DE_BADALONA-MOLLET_HC_B",
+    "date": "2027-01-10T10:45:00",
+    "home": "SANT JOSEP DE BADALONA",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Aleví Plata",
+    "venue": "",
+    "status": "scheduled"
+  }
+]

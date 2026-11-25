@@ -1,0 +1,132 @@
+[
+  {
+    "id": "4806-MOLLET_HC-INNOAESTHETICS_HC_SANT_JUST_A",
+    "date": "2026-09-27T12:30:00",
+    "home": "MOLLET HC",
+    "away": "INNOAESTHETICS HC SANT JUST A",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4806-BELL-LLOC_LLISTA-MOLLET_HC",
+    "date": "2026-10-03T16:00:00",
+    "home": "BELL-LLOC LLISTA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4806-CLUB_PATI_VOLTREGA-MOLLET_HC",
+    "date": "2026-10-18T10:00:00",
+    "home": "CLUB PATÍ VOLTREGÀ",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4806-MOLLET_HC-CE_ARENYS_DE_MUNT",
+    "date": "2026-10-25T15:00:00",
+    "home": "MOLLET HC",
+    "away": "CE ARENYS DE MUNT",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4806-OXFORD_HC_SALT-MOLLET_HC",
+    "date": "2026-11-07T16:15:00",
+    "home": "OXFORD HC SALT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Municipal de Salt, Carrer de la Sèquia 2, Salt",
+    "status": "played"
+  },
+  {
+    "id": "4806-MOLLET_HC-CLUB_PATI_VILA-SANA",
+    "date": "2026-11-08T10:30:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATÍ VILA-SANA",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4806-FENIE_ENERGIA_CERDANYOLA_CCH-MOLLET_HC",
+    "date": "2026-11-15T12:00:00",
+    "home": "FENIE ENERGIA CERDANYOLA CCH",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4806-MOLLET_HC-VICIO_PHC_SANT_CUGAT",
+    "date": "2026-11-29T15:15:00",
+    "home": "MOLLET HC",
+    "away": "VICIO PHC SANT CUGAT",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4806-IGUALADA_HC-MOLLET_HC",
+    "date": "2026-12-06T13:00:00",
+    "home": "IGUALADA HC",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Municipal d'Esports Marc Negre, Avinguda Catalunya s/n, Igualada",
+    "status": "scheduled"
+  },
+  {
+    "id": "4806-MOLLET_HC-GENERALI_HC_PALAU_A",
+    "date": "2026-12-13T12:30:00",
+    "home": "MOLLET HC",
+    "away": "GENERALI HC PALAU A",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4806-MARTINELIA_MANLLEU-MOLLET_HC",
+    "date": "2026-12-19T16:45:00",
+    "home": "MARTINELIA MANLLEU",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4806-MOLLET_HC-UEH_BARBERA",
+    "date": "2027-01-10T11:00:00",
+    "home": "MOLLET HC",
+    "away": "UEH BARBERÀ",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4806-CH_MATARO-MOLLET_HC",
+    "date": "2027-01-17T15:30:00",
+    "home": "CH MATARÓ",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 11",
+    "venue": "Pavelló Municipal La Llàntia, Carrer del Camí Ral s/n, Mataró",
+    "status": "scheduled"
+  }
+]

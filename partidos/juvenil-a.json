@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4784-CLUB_PATI_TORDERA_A-MOLLET_HC_A",
+    "date": "2026-09-27T11:00:00",
+    "home": "CLUB PATI TORDERA A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4784-MOLLET_HC_A-IGUALADA_HC_D",
+    "date": "2026-10-11T18:45:00",
+    "home": "MOLLET HC A",
+    "away": "IGUALADA HC D",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4784-INNOAESTHETICS_HC_SANT_JUST-MOLLET_HC_A",
+    "date": "2026-10-17T12:30:00",
+    "home": "INNOAESTHETICS HC SANT JUST",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "Pavelló Municipal de Sant Just Desvern, Sant Just Desvern",
+    "status": "played"
+  },
+  {
+    "id": "4784-MOLLET_HC_A-CH_JUNEDA",
+    "date": "2026-10-24T16:15:00",
+    "home": "MOLLET HC A",
+    "away": "CH JUNEDA",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4784-CH_RIPOLLET-MOLLET_HC_A",
+    "date": "2026-11-01T12:30:00",
+    "home": "CH RIPOLLET",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4784-MOLLET_HC_A-CLUB_PATI_CALAFELL_A",
+    "date": "2026-11-07T17:45:00",
+    "home": "MOLLET HC A",
+    "away": "CLUB PATI CALAFELL A",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4784-MOLLET_HC_A-CLUB_PATI_TORDERA_A",
+    "date": "2026-11-21T12:30:00",
+    "home": "MOLLET HC A",
+    "away": "CLUB PATI TORDERA A",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4784-IGUALADA_HC_D-MOLLET_HC_A",
+    "date": "2026-11-28T16:30:00",
+    "home": "IGUALADA HC D",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4784-MOLLET_HC_A-INNOAESTHETICS_HC_SANT_JUST",
+    "date": "2026-12-05T12:30:00",
+    "home": "MOLLET HC A",
+    "away": "INNOAESTHETICS HC SANT JUST",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4784-CH_JUNEDA-MOLLET_HC_A",
+    "date": "2026-12-13T15:30:00",
+    "home": "CH JUNEDA",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4784-MOLLET_HC_A-CH_RIPOLLET",
+    "date": "2026-12-19T18:30:00",
+    "home": "MOLLET HC A",
+    "away": "CH RIPOLLET",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4784-CLUB_PATI_CALAFELL_A-MOLLET_HC_A",
+    "date": "2027-01-10T13:00:00",
+    "home": "CLUB PATI CALAFELL A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Juvenil Or",
+    "venue": "",
+    "status": "scheduled"
+  }
+]

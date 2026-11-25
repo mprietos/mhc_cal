@@ -1,0 +1,242 @@
+[
+  {
+    "id": "4778-CLUB_HOQUEI_ARENYS_DE_MAR-MOLLET_HC",
+    "date": "2026-09-26T17:00:00",
+    "home": "CLUB HOQUEI ARENYS DE MAR",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Municipal d'Esports, Carrer del Palau 25, Arenys de Mar",
+    "status": "played"
+  },
+  {
+    "id": "4778-MOLLET_HC-CE_ARENYS_DE_MUNT_MUNTBIKES",
+    "date": "2026-10-19T21:40:00",
+    "home": "MOLLET HC",
+    "away": "CE ARENYS DE MUNT MUNTBIKES",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4778-FENIE_ENERGIA_CERDANYOLA_CCH-MOLLET_HC",
+    "date": "2026-10-10T17:45:00",
+    "home": "FENIE ENERGIA CERDANYOLA CCH",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4778-MOLLET_HC-CGM_IGUALADA_FEMENI_HCP",
+    "date": "2026-10-25T18:45:00",
+    "home": "MOLLET HC",
+    "away": "CGM IGUALADA FEMENÍ HCP",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4778-CP_BLANES-MOLLET_HC",
+    "date": "2026-11-01T12:30:00",
+    "home": "CP BLANES",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4778-MOLLET_HC-CLUB_PATI_VILA-SANA",
+    "date": "2026-11-27T21:40:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATÍ VILA-SANA",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-FARNERS-MOLLET_HC",
+    "date": "2026-11-21T19:45:00",
+    "home": "FARNERS",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Municipal d'Esports, Santa Coloma de Farners",
+    "status": "played"
+  },
+  {
+    "id": "4778-MOLLET_HC-PONS_LLEIDA_BELL-LLOC",
+    "date": "2026-11-28T19:45:00",
+    "home": "MOLLET HC",
+    "away": "PONS LLEIDA BELL-LLOC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-FUTBOL_CLUB_MARTINENC-MOLLET_HC",
+    "date": "2026-12-13T20:30:00",
+    "home": "FUTBOL CLUB MARTINENC",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Martinenc, Carrer del Consell de Cent 318, Barcelona",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-MOLLET_HC-REUS_DEPORTIU",
+    "date": "2026-12-19T19:45:00",
+    "home": "MOLLET HC",
+    "away": "REUS DEPORTIU",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-SHUM_SELVAFIL-MOLLET_HC",
+    "date": "2027-01-10T19:30:00",
+    "home": "SHUM SELVAFIL",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-MOLLET_HC-VICIO_PHC_SANT_CUGAT",
+    "date": "2027-01-16T19:45:00",
+    "home": "MOLLET HC",
+    "away": "VICIO PHC SANT CUGAT",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-MOLLET_HC-CLUB_HOQUEI_ARENYS_DE_MAR",
+    "date": "2027-01-23T19:45:00",
+    "home": "MOLLET HC",
+    "away": "CLUB HOQUEI ARENYS DE MAR",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-CE_ARENYS_DE_MUNT_MUNTBIKES-MOLLET_HC",
+    "date": "2027-01-30T20:00:00",
+    "home": "CE ARENYS DE MUNT MUNTBIKES",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-MOLLET_HC-FENIE_ENERGIA_CERDANYOLA_CCH",
+    "date": "2027-02-13T19:45:00",
+    "home": "MOLLET HC",
+    "away": "FENIE ENERGIA CERDANYOLA CCH",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-CGM_IGUALADA_FEMENI_HCP-MOLLET_HC",
+    "date": "2027-02-28T12:30:00",
+    "home": "CGM IGUALADA FEMENÍ HCP",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-MOLLET_HC-CP_BLANES",
+    "date": "2027-03-13T19:45:00",
+    "home": "MOLLET HC",
+    "away": "CP BLANES",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-CLUB_PATI_VILA-SANA-MOLLET_HC",
+    "date": "2027-03-21T20:00:00",
+    "home": "CLUB PATÍ VILA-SANA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-MOLLET_HC-FARNERS",
+    "date": "2027-04-03T19:45:00",
+    "home": "MOLLET HC",
+    "away": "FARNERS",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-PONS_LLEIDA_BELL-LLOC-MOLLET_HC",
+    "date": "2027-04-11T12:00:00",
+    "home": "PONS LLEIDA BELL-LLOC",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-MOLLET_HC-FUTBOL_CLUB_MARTINENC",
+    "date": "2027-04-24T19:45:00",
+    "home": "MOLLET HC",
+    "away": "FUTBOL CLUB MARTINENC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-REUS_DEPORTIU-MOLLET_HC",
+    "date": "2027-05-02T18:00:00",
+    "home": "REUS DEPORTIU",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-MOLLET_HC-SHUM_SELVAFIL",
+    "date": "2027-05-15T19:45:00",
+    "home": "MOLLET HC",
+    "away": "SHUM SELVAFIL",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4778-VICIO_PHC_SANT_CUGAT-MOLLET_HC",
+    "date": "2027-05-22T16:00:00",
+    "home": "VICIO PHC SANT CUGAT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 1a Catalana Femenina",
+    "venue": "Pavelló Municipal Can Gatxet, Carrer de Can Gatxet s/n, Sant Cugat del Vallès",
+    "status": "scheduled"
+  }
+]

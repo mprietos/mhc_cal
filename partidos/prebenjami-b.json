@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4815-INNOAESTHETICS_HC_SANT_JUST_C-MOLLET_HC_B",
+    "date": "2026-09-27T11:15:00",
+    "home": "INNOAESTHETICS HC SANT JUST C",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4815-MOLLET_HC_B-CLUB_PATI_TORRELLES",
+    "date": "2026-10-11T11:15:00",
+    "home": "MOLLET HC B",
+    "away": "CLUB PATI TORRELLES",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4815-CH_CALDES_RECAM_LASER_B-MOLLET_HC_B",
+    "date": "2026-10-17T12:30:00",
+    "home": "CH CALDES RECAM LÀSER B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4815-MOLLET_HC_B-CLUB_HOQUEI_SANTA_PERPETUA",
+    "date": "2026-10-24T09:00:00",
+    "home": "MOLLET HC B",
+    "away": "CLUB HOQUEI SANTA PERPÈTUA",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4815-HOQUEI_CLUB_CASTELLAR_B-MOLLET_HC_B",
+    "date": "2026-11-01T10:00:00",
+    "home": "HOQUEI CLUB CASTELLAR B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4815-MOLLET_HC_B-CAPELLADES_B",
+    "date": "2026-11-07T15:00:00",
+    "home": "MOLLET HC B",
+    "away": "CAPELLADES B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4815-MOLLET_HC_B-INNOAESTHETICS_HC_SANT_JUST_C",
+    "date": "2026-11-14T10:00:00",
+    "home": "MOLLET HC B",
+    "away": "INNOAESTHETICS HC SANT JUST C",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4815-CLUB_PATI_TORRELLES-MOLLET_HC_B",
+    "date": "2026-11-28T15:00:00",
+    "home": "CLUB PATI TORRELLES",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4815-MOLLET_HC_B-CH_CALDES_RECAM_LASER_B",
+    "date": "2026-12-12T10:00:00",
+    "home": "MOLLET HC B",
+    "away": "CH CALDES RECAM LÀSER B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4815-CLUB_HOQUEI_SANTA_PERPETUA-MOLLET_HC_B",
+    "date": "2026-12-20T10:00:00",
+    "home": "CLUB HOQUEI SANTA PERPÈTUA",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4815-MOLLET_HC_B-HOQUEI_CLUB_CASTELLAR_B",
+    "date": "2027-01-09T10:00:00",
+    "home": "MOLLET HC B",
+    "away": "HOQUEI CLUB CASTELLAR B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4815-CAPELLADES_B-MOLLET_HC_B",
+    "date": "2027-01-16T10:00:00",
+    "home": "CAPELLADES B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Prebenjamí Bronze",
+    "venue": "",
+    "status": "scheduled"
+  }
+]

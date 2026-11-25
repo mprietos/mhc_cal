@@ -1,0 +1,202 @@
+[
+  {
+    "id": "4793-MOLLET_HC_B-MOLLET_HC_A",
+    "date": "2026-09-22T19:30:00",
+    "home": "MOLLET HC B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4793-FENIE_ENERGIA_CERDANYOLA_CCH_B-MOLLET_HC_A",
+    "date": "2026-10-17T13:45:00",
+    "home": "FENIE ENERGIA CERDANYOLA CCH B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Municipal Cerdanyola CCH, Cerdanyola del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-UDL_IGUALADA_FEMENI_HCP_A",
+    "date": "2026-10-25T17:30:00",
+    "home": "MOLLET HC A",
+    "away": "UDL IGUALADA FEMENÍ HCP A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4793-CHP_SANT_FELIU_B-MOLLET_HC_A",
+    "date": "2026-10-31T18:00:00",
+    "home": "CHP SANT FELIU B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-ROTOTANK_BIGUES_I_RIELLS",
+    "date": "2026-11-07T19:00:00",
+    "home": "MOLLET HC A",
+    "away": "ROTOTANK BIGUES I RIELLS",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4793-CHP_SANT_FELIU_A-MOLLET_HC_A",
+    "date": "2026-11-15T11:15:00",
+    "home": "CHP SANT FELIU A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-REUS_DEPORTIU",
+    "date": "2026-11-21T11:15:00",
+    "home": "MOLLET HC A",
+    "away": "REUS DEPORTIU",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4793-FENIE_ENERGIA_CERDANYOLA_CCH_A-MOLLET_HC_A",
+    "date": "2026-11-28T15:00:00",
+    "home": "FENIE ENERGIA CERDANYOLA CCH A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Municipal Cerdanyola CCH, Cerdanyola del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-OXFORD_HC_SALT_A",
+    "date": "2026-12-13T17:30:00",
+    "home": "MOLLET HC A",
+    "away": "OXFORD HC SALT A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-GENERALI_HC_PALAU_A-MOLLET_HC_A",
+    "date": "2026-12-19T15:15:00",
+    "home": "GENERALI HC PALAU A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Municipal d'Esports, Avinguda del Vedrà s/n, Palau-solità i Plegamans",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-MARTINELIA_MANLLEU",
+    "date": "2027-01-10T16:00:00",
+    "home": "MOLLET HC A",
+    "away": "MARTINELIA MANLLEU",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-CLUB_PATI_RODA",
+    "date": "2027-01-17T16:00:00",
+    "home": "MOLLET HC A",
+    "away": "CLUB PATÍ RODA",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-INNOAESTHETICS_HC_SANT_JUST-MOLLET_HC_A",
+    "date": "2027-01-24T10:00:00",
+    "home": "INNOAESTHETICS HC SANT JUST",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Municipal de Sant Just Desvern, Sant Just Desvern",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-GENERALI_HC_PALAU_B",
+    "date": "2027-01-31T16:00:00",
+    "home": "MOLLET HC A",
+    "away": "GENERALI HC PALAU B",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-CLUB_PATI_VOLTREGA-MOLLET_HC_A",
+    "date": "2027-02-13T11:15:00",
+    "home": "CLUB PATÍ VOLTREGÀ",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-CH_OLOT",
+    "date": "2027-02-21T16:00:00",
+    "home": "MOLLET HC A",
+    "away": "CH OLOT",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-FARNERS-MOLLET_HC_A",
+    "date": "2027-02-28T15:00:00",
+    "home": "FARNERS",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Municipal d'Esports, Santa Coloma de Farners",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-CH_MATARO",
+    "date": "2027-03-07T16:00:00",
+    "home": "MOLLET HC A",
+    "away": "CH MATARÓ",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-CLUB_PATI_VILA-SANA-MOLLET_HC_A",
+    "date": "2027-03-14T18:00:00",
+    "home": "CLUB PATÍ VILA-SANA",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4793-MOLLET_HC_A-VICIO_PHC_SANT_CUGAT",
+    "date": "2027-03-21T16:00:00",
+    "home": "MOLLET HC A",
+    "away": "VICIO PHC SANT CUGAT",
+    "category": "",
+    "competition": "Mollet HC A · Fem 17 Or",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "4781-MOLLET_HC-CP_RODA",
+    "date": "2026-09-27T16:00:00",
+    "home": "MOLLET HC",
+    "away": "CP RODA",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4781-CLUB_PATI_CENTELLES-MOLLET_HC",
+    "date": "2026-10-03T16:00:00",
+    "home": "CLUB PATÍ CENTELLES",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4781-MOLLET_HC-GENERALI_HC_PALAU",
+    "date": "2026-10-09T21:45:00",
+    "home": "MOLLET HC",
+    "away": "GENERALI HC PALAU",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4781-SFERIC-MOLLET_HC",
+    "date": "2026-10-16T21:50:00",
+    "home": "SFERIC",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4781-MOLLET_HC-IGUALADA_HC_A",
+    "date": "2026-10-23T21:45:00",
+    "home": "MOLLET HC",
+    "away": "IGUALADA HC A",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4781-JESUS_MARIA_I_JOSEP_B-MOLLET_HC",
+    "date": "2026-11-07T20:15:00",
+    "home": "JESUS MARIA I JOSEP B",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4781-MOLLET_HC-INNOAESTHETICS_HC_SANT_JUST_B",
+    "date": "2026-11-13T21:45:00",
+    "home": "MOLLET HC",
+    "away": "INNOAESTHETICS HC SANT JUST B",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4781-AUTO_VIGATANA_PATI_VIC_B-MOLLET_HC",
+    "date": "2026-11-22T12:00:00",
+    "home": "AUTO VIGATANA PATÍ VIC B",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4781-MOLLET_HC-UEH_BARBERA",
+    "date": "2026-12-11T21:45:00",
+    "home": "MOLLET HC",
+    "away": "UEH BARBERÀ",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-CP_VILANOVA_B-MOLLET_HC",
+    "date": "2026-12-20T13:15:00",
+    "home": "CP VILANOVA B",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-MOLLET_HC-CLUB_PATI_BELL-LLOC_B",
+    "date": "2027-01-08T21:45:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATÍ BELL-LLOC B",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-UNIO_ESPORTIVA_LA_GARRIGA-MOLLET_HC",
+    "date": "2027-01-16T19:00:00",
+    "home": "UNIÓ ESPORTIVA LA GARRIGA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-CP_RODA-MOLLET_HC",
+    "date": "2027-01-23T19:55:00",
+    "home": "CP RODA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-MOLLET_HC-CLUB_PATI_CENTELLES",
+    "date": "2027-01-29T21:45:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATÍ CENTELLES",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-GENERALI_HC_PALAU-MOLLET_HC",
+    "date": "2027-02-14T18:30:00",
+    "home": "GENERALI HC PALAU",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-MOLLET_HC-SFERIC",
+    "date": "2027-02-19T21:45:00",
+    "home": "MOLLET HC",
+    "away": "SFERIC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-IGUALADA_HC_A-MOLLET_HC",
+    "date": "2027-02-26T21:45:00",
+    "home": "IGUALADA HC A",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-MOLLET_HC-JESUS_MARIA_I_JOSEP_B",
+    "date": "2027-03-12T21:45:00",
+    "home": "MOLLET HC",
+    "away": "JESUS MARIA I JOSEP B",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-INNOAESTHETICS_HC_SANT_JUST_B-MOLLET_HC",
+    "date": "2027-03-21T15:00:00",
+    "home": "INNOAESTHETICS HC SANT JUST B",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-MOLLET_HC-AUTO_VIGATANA_PATI_VIC_B",
+    "date": "2027-04-02T21:45:00",
+    "home": "MOLLET HC",
+    "away": "AUTO VIGATANA PATÍ VIC B",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-UEH_BARBERA-MOLLET_HC",
+    "date": "2027-04-24T18:30:00",
+    "home": "UEH BARBERÀ",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-MOLLET_HC-CP_VILANOVA_B",
+    "date": "2027-04-30T21:45:00",
+    "home": "MOLLET HC",
+    "away": "CP VILANOVA B",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-CLUB_PATI_BELL-LLOC_B-MOLLET_HC",
+    "date": "2027-05-16T15:45:00",
+    "home": "CLUB PATÍ BELL-LLOC B",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4781-MOLLET_HC-UNIO_ESPORTIVA_LA_GARRIGA",
+    "date": "2027-05-21T21:45:00",
+    "home": "MOLLET HC",
+    "away": "UNIÓ ESPORTIVA LA GARRIGA",
+    "category": "",
+    "competition": "Mollet HC · 3a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  }
+]

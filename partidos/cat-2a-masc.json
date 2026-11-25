@@ -1,0 +1,262 @@
+[
+  {
+    "id": "4779-SFERIC-MOLLET_HC",
+    "date": "2026-09-26T16:00:00",
+    "home": "SFERIC",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4779-MOLLET_HC-INNOAESTHETICS_HC_SANT_JUST",
+    "date": "2026-10-15T21:40:00",
+    "home": "MOLLET HC",
+    "away": "INNOAESTHETICS HC SANT JUST",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4779-CEH_OLIMPIC_REUS-MOLLET_HC",
+    "date": "2026-10-10T18:00:00",
+    "home": "CEH OLÍMPIC REUS",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4779-MOLLET_HC-CLUB_HOQUEI_MOLLERUSSA",
+    "date": "2026-10-17T19:45:00",
+    "home": "MOLLET HC",
+    "away": "CLUB HOQUEI MOLLERUSSA",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4779-CLUB_HOQUEI_PRAT-MOLLET_HC",
+    "date": "2026-10-24T18:30:00",
+    "home": "CLUB HOQUEI PRAT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4779-MOLLET_HC-CH_PALAFRUGELL",
+    "date": "2026-10-31T19:30:00",
+    "home": "MOLLET HC",
+    "away": "CH PALAFRUGELL",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4779-UNIO_ESPORTIVA_LA_GARRIGA-MOLLET_HC",
+    "date": "2026-11-13T21:15:00",
+    "home": "UNIÓ ESPORTIVA LA GARRIGA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4779-MOLLET_HC-CE_NOIA_FREIXENET",
+    "date": "2026-11-21T20:00:00",
+    "home": "MOLLET HC",
+    "away": "CE NOIA FREIXENET",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4779-CE_ARENYS_DE_MUNT-MOLLET_HC",
+    "date": "2026-11-27T22:00:00",
+    "home": "CE ARENYS DE MUNT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-HOQUEI_CLUB_ALPICAT",
+    "date": "2026-12-12T19:45:00",
+    "home": "MOLLET HC",
+    "away": "HOQUEI CLUB ALPICAT",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-HC_VALLS_INTEC_ENGINYERIA-MOLLET_HC",
+    "date": "2026-12-20T12:00:00",
+    "home": "HC VALLS INTEC ENGINYERIA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-HOQUEI_CLUB_CASTELLAR",
+    "date": "2027-01-09T19:45:00",
+    "home": "MOLLET HC",
+    "away": "HOQUEI CLUB CASTELLAR",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-UNIO_ESPORTIVA_D'HORTA-MOLLET_HC",
+    "date": "2027-01-17T12:30:00",
+    "home": "UNIÓ ESPORTIVA D'HORTA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-SFERIC",
+    "date": "2027-01-23T19:45:00",
+    "home": "MOLLET HC",
+    "away": "SFERIC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-INNOAESTHETICS_HC_SANT_JUST-MOLLET_HC",
+    "date": "2027-01-31T17:30:00",
+    "home": "INNOAESTHETICS HC SANT JUST",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Municipal de Sant Just Desvern, Sant Just Desvern",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-CEH_OLIMPIC_REUS",
+    "date": "2027-02-13T19:45:00",
+    "home": "MOLLET HC",
+    "away": "CEH OLÍMPIC REUS",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-CLUB_HOQUEI_MOLLERUSSA-MOLLET_HC",
+    "date": "2027-02-19T21:30:00",
+    "home": "CLUB HOQUEI MOLLERUSSA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-CLUB_HOQUEI_PRAT",
+    "date": "2027-02-27T19:45:00",
+    "home": "MOLLET HC",
+    "away": "CLUB HOQUEI PRAT",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-CH_PALAFRUGELL-MOLLET_HC",
+    "date": "2027-03-14T12:30:00",
+    "home": "CH PALAFRUGELL",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-UNIO_ESPORTIVA_LA_GARRIGA",
+    "date": "2027-03-20T19:45:00",
+    "home": "MOLLET HC",
+    "away": "UNIÓ ESPORTIVA LA GARRIGA",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-CE_NOIA_FREIXENET-MOLLET_HC",
+    "date": "2027-04-04T16:30:00",
+    "home": "CE NOIA FREIXENET",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-CE_ARENYS_DE_MUNT",
+    "date": "2027-04-10T19:45:00",
+    "home": "MOLLET HC",
+    "away": "CE ARENYS DE MUNT",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-HOQUEI_CLUB_ALPICAT-MOLLET_HC",
+    "date": "2027-04-25T20:00:00",
+    "home": "HOQUEI CLUB ALPICAT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Municipal d'Esports, Carrer de la Diputació s/n, Alpicat",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-HC_VALLS_INTEC_ENGINYERIA",
+    "date": "2027-05-01T19:45:00",
+    "home": "MOLLET HC",
+    "away": "HC VALLS INTEC ENGINYERIA",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-HOQUEI_CLUB_CASTELLAR-MOLLET_HC",
+    "date": "2027-05-16T12:45:00",
+    "home": "HOQUEI CLUB CASTELLAR",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Municipal de Castellar del Vallès, Castellar del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4779-MOLLET_HC-UNIO_ESPORTIVA_D'HORTA",
+    "date": "2027-05-22T19:45:00",
+    "home": "MOLLET HC",
+    "away": "UNIÓ ESPORTIVA D'HORTA",
+    "category": "",
+    "competition": "Mollet HC · 2a Catalana Masculina",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  }
+]

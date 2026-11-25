@@ -1,8 +1,16 @@
 # mhc_cal — Calendaris FECAPA Mollet HC
 
-Feeds `.ics` subscrivibles i notificació per Telegram quan hi ha canvis als
-calendaris FECAPA del **Mollet HC A · Aleví** (lliga 4789) i **Mollet HC B ·
-Fem 15** (lliga 4802).
+Feeds `.ics` subscrivibles, **web pública** amb tots els equips del club i
+**vista coordinador**, amb notificació per Telegram quan hi ha canvis als
+calendaris FECAPA de **tots els equips del Mollet HC** (24 equips, de Prebenjamí
+a Veterans i sèniors catalanes).
+
+- **Web**: `/` llista tots els equips per categoria amb el seu `.ics` i pròxims partits.
+- **Coordinador**: `/coordinador.html` (amb contrasenya) agrupa els partits per cap de
+  setmana i avisa de xocs de pista a casa, solapaments horaris i càrrega de partits fora.
+- Els equips es defineixen a `teams.js` (slug permanent per URL). El `.ics` de cada
+  equip es serveix a `/api/ics/<slug>`; els antics `/api/calendar.ics` (Aleví) i
+  `/api/calendarfem15.ics` (Fem 15) es mantenen per compatibilitat.
 
 ## Arquitectura
 

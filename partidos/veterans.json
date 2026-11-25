@@ -1,0 +1,242 @@
+[
+  {
+    "id": "5046-CLUB_HOQUEI_LES_FRANQUESES-MOLLET_HC",
+    "date": "2026-12-09T21:45:00",
+    "home": "CLUB HOQUEI LES FRANQUESES",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "LES FRANQUESES",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-UNIO_ESPORTIVA_LA_GARRIGA_+50",
+    "date": "2026-10-16T22:00:00",
+    "home": "MOLLET HC",
+    "away": "UNIÓ ESPORTIVA LA GARRIGA +50",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "played"
+  },
+  {
+    "id": "5046-CE_CORNELLA-MOLLET_HC",
+    "date": "2026-12-21T21:30:00",
+    "home": "CE CORNELLÀ",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "ESPAI ESPORTIU SANT ILDEFONS",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-GEIEG",
+    "date": "2027-01-22T22:00:00",
+    "home": "MOLLET HC",
+    "away": "GEIEG",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-CLUB_HOQUEI_PREMIA_B-MOLLET_HC",
+    "date": "2026-11-10T21:50:00",
+    "home": "CLUB HOQUEI PREMIA B",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "CAMP MUNICIPAL DE PREMIÀ DE MAR",
+    "status": "played"
+  },
+  {
+    "id": "5046-MOLLET_HC-ESPANYOL",
+    "date": "2026-11-20T22:00:00",
+    "home": "MOLLET HC",
+    "away": "ESPANYOL",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "played"
+  },
+  {
+    "id": "5046-CLUB_PATI_CALAFELL-MOLLET_HC",
+    "date": "2026-11-23T21:00:00",
+    "home": "CLUB PATI CALAFELL",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "POLIESPORTIU MUNICIPAL DE CALAFELL",
+    "status": "played"
+  },
+  {
+    "id": "5046-MOLLET_HC-HCSENTMENAT",
+    "date": "2026-12-04T22:00:00",
+    "home": "MOLLET HC",
+    "away": "HCSENTMENAT",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-CLUB_PATI_VILAFRANCA-MOLLET_HC",
+    "date": "2026-12-17T22:00:00",
+    "home": "CLUB PATI VILAFRANCA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "ANNEX POLIESPORTIU VILAFRANCA",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-FENIE_ENERGIA_CERDANYOLA_CCH",
+    "date": "2027-01-15T22:00:00",
+    "home": "MOLLET HC",
+    "away": "FENIE ENERGIA CERDANYOLA CCH",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-CLUB_HOQUEI_PREMIA_A-MOLLET_HC",
+    "date": "2027-01-19T21:50:00",
+    "home": "CLUB HOQUEI PREMIA A",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "CAMP MUNICIPAL DE PREMIÀ DE MAR",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-UEH_VETERANS_50",
+    "date": "2027-01-29T22:00:00",
+    "home": "MOLLET HC",
+    "away": "UEH VETERANS 50",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-CLUB_HOQUEI_LES_FRANQUESES",
+    "date": "2027-02-05T22:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB HOQUEI LES FRANQUESES",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-UNIO_ESPORTIVA_LA_GARRIGA_+50-MOLLET_HC",
+    "date": "2027-02-11T22:00:00",
+    "home": "UNIÓ ESPORTIVA LA GARRIGA +50",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLÓ D ESPORTS CAN VIOLÍ",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-CE_CORNELLA",
+    "date": "2027-02-19T22:00:00",
+    "home": "MOLLET HC",
+    "away": "CE CORNELLÀ",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-GEIEG-MOLLET_HC",
+    "date": "2027-03-09T21:00:00",
+    "home": "GEIEG",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PISTA THORO",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-CLUB_HOQUEI_PREMIA_B",
+    "date": "2027-03-19T22:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB HOQUEI PREMIA B",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-ESPANYOL-MOLLET_HC",
+    "date": "2027-03-31T22:15:00",
+    "home": "ESPANYOL",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLÓ RIPOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-CLUB_PATI_CALAFELL",
+    "date": "2027-04-09T22:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATI CALAFELL",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-HCSENTMENAT-MOLLET_HC",
+    "date": "2027-04-13T21:40:00",
+    "home": "HCSENTMENAT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLÓ HOQUEI SENTMENAT",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-CLUB_PATI_VILAFRANCA",
+    "date": "2027-04-23T22:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATI VILAFRANCA",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-FENIE_ENERGIA_CERDANYOLA_CCH-MOLLET_HC",
+    "date": "2027-05-03T21:30:00",
+    "home": "FENIE ENERGIA CERDANYOLA CCH",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PISTA LA BOINA CERDANYOLA",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-MOLLET_HC-CLUB_HOQUEI_PREMIA_A",
+    "date": "2027-05-14T22:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB HOQUEI PREMIA A",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PAVELLO MOLLET",
+    "status": "scheduled"
+  },
+  {
+    "id": "5046-UEH_VETERANS_50-MOLLET_HC",
+    "date": "2027-05-18T22:30:00",
+    "home": "UEH VETERANS 50",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Màster 50",
+    "venue": "PISTA UE HORTA",
+    "status": "scheduled"
+  }
+]

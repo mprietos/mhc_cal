@@ -1,0 +1,222 @@
+[
+  {
+    "id": "4792-MOLLET_HC-MARTINELIA_MANLLEU",
+    "date": "2026-09-26T19:30:00",
+    "home": "MOLLET HC",
+    "away": "MARTINELIA MANLLEU",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4792-MOLLET_HC-CLUB_PATI_VILAFRANCA_AKO",
+    "date": "2026-10-03T11:15:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATI VILAFRANCA AKO",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4792-GENERALI_HC_PALAU_B-MOLLET_HC",
+    "date": "2026-10-18T19:00:00",
+    "home": "GENERALI HC PALAU B",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Municipal d'Esports, Avinguda del Vedrà s/n, Palau-solità i Plegamans",
+    "status": "played"
+  },
+  {
+    "id": "4792-MOLLET_HC-GENERALI_HC_PALAU_A",
+    "date": "2026-11-04T21:40:00",
+    "home": "MOLLET HC",
+    "away": "GENERALI HC PALAU A",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4792-OXFORD_HC_SALT-MOLLET_HC",
+    "date": "2026-11-13T21:30:00",
+    "home": "OXFORD HC SALT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Municipal de Salt, Carrer de la Sèquia 2, Salt",
+    "status": "played"
+  },
+  {
+    "id": "4792-MOLLET_HC-CLUB_PATI_RODA",
+    "date": "2026-11-08T13:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATÍ RODA",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4792-MOLLET_HC-FENIE_ENERGIA_CERDANYOLA_CCH",
+    "date": "2026-11-15T18:45:00",
+    "home": "MOLLET HC",
+    "away": "FENIE ENERGIA CERDANYOLA CCH",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4792-CLUB_PATI_VILA-SANA-MOLLET_HC",
+    "date": "2026-11-21T15:30:00",
+    "home": "CLUB PATÍ VILA-SANA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4792-MOLLET_HC-VICIO_PHC_SANT_CUGAT",
+    "date": "2026-11-29T12:30:00",
+    "home": "MOLLET HC",
+    "away": "VICIO PHC SANT CUGAT",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-ROTOTANK_BIGUES_I_RIELLS-MOLLET_HC",
+    "date": "2026-12-13T17:45:00",
+    "home": "ROTOTANK BIGUES I RIELLS",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Municipal Les Cremades, Camí del Veïnat 5, Bigues i Riells",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-MOLLET_HC-MASCOTAS_MIL_IGUALADA_FHCP",
+    "date": "2026-12-20T18:00:00",
+    "home": "MOLLET HC",
+    "away": "MASCOTAS MIL IGUALADA FHCP",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-MARTINELIA_MANLLEU-MOLLET_HC",
+    "date": "2027-01-17T16:15:00",
+    "home": "MARTINELIA MANLLEU",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-CLUB_PATI_VILAFRANCA_AKO-MOLLET_HC",
+    "date": "2027-01-24T10:00:00",
+    "home": "CLUB PATI VILAFRANCA AKO",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-MOLLET_HC-GENERALI_HC_PALAU_B",
+    "date": "2027-01-31T18:00:00",
+    "home": "MOLLET HC",
+    "away": "GENERALI HC PALAU B",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-GENERALI_HC_PALAU_A-MOLLET_HC",
+    "date": "2027-02-13T12:30:00",
+    "home": "GENERALI HC PALAU A",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Municipal d'Esports, Avinguda del Vedrà s/n, Palau-solità i Plegamans",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-MOLLET_HC-OXFORD_HC_SALT",
+    "date": "2027-02-21T18:00:00",
+    "home": "MOLLET HC",
+    "away": "OXFORD HC SALT",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-CLUB_PATI_RODA-MOLLET_HC",
+    "date": "2027-02-27T18:45:00",
+    "home": "CLUB PATÍ RODA",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Municipal d'Esports, Carrer Major 1, Roda de Ter",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-FENIE_ENERGIA_CERDANYOLA_CCH-MOLLET_HC",
+    "date": "2027-03-07T13:00:00",
+    "home": "FENIE ENERGIA CERDANYOLA CCH",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-MOLLET_HC-CLUB_PATI_VILA-SANA",
+    "date": "2027-03-14T18:00:00",
+    "home": "MOLLET HC",
+    "away": "CLUB PATÍ VILA-SANA",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-VICIO_PHC_SANT_CUGAT-MOLLET_HC",
+    "date": "2027-03-20T13:55:00",
+    "home": "VICIO PHC SANT CUGAT",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Municipal Can Gatxet, Carrer de Can Gatxet s/n, Sant Cugat del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-MOLLET_HC-ROTOTANK_BIGUES_I_RIELLS",
+    "date": "2027-04-04T18:00:00",
+    "home": "MOLLET HC",
+    "away": "ROTOTANK BIGUES I RIELLS",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4792-MASCOTAS_MIL_IGUALADA_FHCP-MOLLET_HC",
+    "date": "2027-04-11T11:15:00",
+    "home": "MASCOTAS MIL IGUALADA FHCP",
+    "away": "MOLLET HC",
+    "category": "",
+    "competition": "Mollet HC · Fem 19",
+    "venue": "",
+    "status": "scheduled"
+  }
+]

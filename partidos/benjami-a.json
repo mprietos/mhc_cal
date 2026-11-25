@@ -1,0 +1,132 @@
+[
+  {
+    "id": "4811-MOLLET_HC_A-FENIE_ENERGIA_CERDANYOLA_CCH_B",
+    "date": "2026-09-26T12:30:00",
+    "home": "MOLLET HC A",
+    "away": "FENIE ENERGIA CERDANYOLA CCH B",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4811-CLU_ESPORTIU_OLESA_PATI_B-MOLLET_HC_A",
+    "date": "2026-10-25T11:00:00",
+    "home": "CLU ESPORTIU OLESA PATI B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4811-MOLLET_HC_A-CLUB_PATI_MONJOS_B",
+    "date": "2026-10-11T12:30:00",
+    "home": "MOLLET HC A",
+    "away": "CLUB PATÍ MONJOS B",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4811-MOLLET_HC_A-SANT_JOSEP_DE_BADALONA",
+    "date": "2026-10-24T15:00:00",
+    "home": "MOLLET HC A",
+    "away": "SANT JOSEP DE BADALONA",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4811-HOQUEI_CLARET-MOLLET_HC_A",
+    "date": "2026-10-31T18:30:00",
+    "home": "HOQUEI CLARET",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4811-MOLLET_HC_A-UEH_BARBERA_B",
+    "date": "2026-11-07T12:30:00",
+    "home": "MOLLET HC A",
+    "away": "UEH BARBERÀ B",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4811-HOQUEI_CLUB_CASTELLAR_B-MOLLET_HC_A",
+    "date": "2026-11-14T10:00:00",
+    "home": "HOQUEI CLUB CASTELLAR B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4811-MOLLET_HC_A-CLUB_PATI_CUBELLES_B_B",
+    "date": "2026-11-29T10:00:00",
+    "home": "MOLLET HC A",
+    "away": "CLUB PATI CUBELLES B B",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4811-HF_SANT_JOSEP_SANT_SADURNI_B-MOLLET_HC_A",
+    "date": "2026-12-12T13:45:00",
+    "home": "HF SANT JOSEP SANT SADURNÍ B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4811-MOLLET_HC_A-JESUS_MARIA_I_JOSEP_F",
+    "date": "2026-12-20T11:15:00",
+    "home": "MOLLET HC A",
+    "away": "JESUS MARIA I JOSEP F",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4811-CP_CONGRES_C-MOLLET_HC_A",
+    "date": "2027-01-10T10:00:00",
+    "home": "CP CONGRES C",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4811-MOLLET_HC_A-CPI_LA_SAGRERA_D",
+    "date": "2027-01-16T12:30:00",
+    "home": "MOLLET HC A",
+    "away": "CPI LA SAGRERA D",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4811-HCSENTMENAT-MOLLET_HC_A",
+    "date": "2027-01-23T11:00:00",
+    "home": "HCSENTMENAT",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Benjamí Plata",
+    "venue": "",
+    "status": "scheduled"
+  }
+]

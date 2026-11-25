@@ -1,0 +1,142 @@
+[
+  {
+    "id": "4785-CLUB_HOQUEI_VILASSAR-MOLLET_HC_B",
+    "date": "2026-09-27T13:00:00",
+    "home": "CLUB HOQUEI VILASSAR",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4785-MOLLET_HC_B-CP_BLANES_A",
+    "date": "2026-11-08T15:00:00",
+    "home": "MOLLET HC B",
+    "away": "CP BLANES A",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4785-CEH_SABADELL-MOLLET_HC_B",
+    "date": "2026-10-11T17:30:00",
+    "home": "CEH SABADELL",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4785-MOLLET_HC_B-FENIE_ENERGIA_CERDANYOLA_CCH_C",
+    "date": "2026-10-17T10:00:00",
+    "home": "MOLLET HC B",
+    "away": "FENIE ENERGIA CERDANYOLA CCH C",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4785-CLUB_HOQUEI_SANTA_PERPETUA-MOLLET_HC_B",
+    "date": "2026-10-25T12:30:00",
+    "home": "CLUB HOQUEI SANTA PERPÈTUA",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4785-MOLLET_HC_B-CLUB_PATI_CENTELLES",
+    "date": "2026-11-07T16:15:00",
+    "home": "MOLLET HC B",
+    "away": "CLUB PATÍ CENTELLES",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4785-CP_FOLGUEROLES_B-MOLLET_HC_B",
+    "date": "2026-11-14T17:15:00",
+    "home": "CP FOLGUEROLES B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4785-MOLLET_HC_B-CH_MATARO_C",
+    "date": "2026-11-21T18:45:00",
+    "home": "MOLLET HC B",
+    "away": "CH MATARÓ C",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4785-CP_CALDES_B-MOLLET_HC_B",
+    "date": "2026-11-29T17:15:00",
+    "home": "CP CALDES B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4785-MOLLET_HC_B-UEH_BARBERA_B",
+    "date": "2026-12-05T11:15:00",
+    "home": "MOLLET HC B",
+    "away": "UEH BARBERÀ B",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4785-FUTBOL_CLUB_MARTINENC_B_B-MOLLET_HC_B",
+    "date": "2026-12-12T12:30:00",
+    "home": "FUTBOL CLUB MARTINENC B B",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4785-MOLLET_HC_B-GENERALI_HC_PALAU_C",
+    "date": "2026-12-19T17:15:00",
+    "home": "MOLLET HC B",
+    "away": "GENERALI HC PALAU C",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4785-ROTOTANK_BIGUES_I_RIELLS-MOLLET_HC_B",
+    "date": "2027-01-10T11:00:00",
+    "home": "ROTOTANK BIGUES I RIELLS",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "Pavelló Municipal Les Cremades, Camí del Veïnat 5, Bigues i Riells",
+    "status": "scheduled"
+  },
+  {
+    "id": "4785-MOLLET_HC_B-CH_LES_FRANQUESES",
+    "date": "2027-01-16T18:00:00",
+    "home": "MOLLET HC B",
+    "away": "CH LES FRANQUESES",
+    "category": "",
+    "competition": "Mollet HC B · Juvenil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  }
+]

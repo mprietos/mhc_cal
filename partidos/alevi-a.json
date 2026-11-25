@@ -1,6 +1,6 @@
 [
   {
-    "id": "MOLLET_HC_A-CP_MASQUEFA_A",
+    "id": "4789-MOLLET_HC_A-CP_MASQUEFA_A",
     "date": "2026-09-27T13:45:00",
     "home": "MOLLET HC A",
     "away": "CP MASQUEFA A",
@@ -10,7 +10,7 @@
     "status": "played"
   },
   {
-    "id": "CH_CALDES_RECAM_LASER_A-MOLLET_HC_A",
+    "id": "4789-CH_CALDES_RECAM_LASER_A-MOLLET_HC_A",
     "date": "2026-10-04T15:30:00",
     "home": "CH CALDES RECAM LÀSER A",
     "away": "MOLLET HC A",
@@ -20,7 +20,7 @@
     "status": "played"
   },
   {
-    "id": "CE_ARENYS_DE_MUNT_A-MOLLET_HC_A",
+    "id": "4789-CE_ARENYS_DE_MUNT_A-MOLLET_HC_A",
     "date": "2026-10-11T10:00:00",
     "home": "CE ARENYS DE MUNT A",
     "away": "MOLLET HC A",
@@ -30,7 +30,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_A-CP_SANT_CELONI_A",
+    "id": "4789-MOLLET_HC_A-CP_SANT_CELONI_A",
     "date": "2026-10-17T15:30:00",
     "home": "MOLLET HC A",
     "away": "CP SANT CELONI A",
@@ -40,7 +40,7 @@
     "status": "played"
   },
   {
-    "id": "HOQUEI_CASAL_ESPLUGA_B-MOLLET_HC_A",
+    "id": "4789-HOQUEI_CASAL_ESPLUGA_B-MOLLET_HC_A",
     "date": "2026-10-24T11:00:00",
     "home": "HOQUEI CASAL ESPLUGA B",
     "away": "MOLLET HC A",
@@ -50,7 +50,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_A-HOQUEI_CASAL_ESPLUGA_A",
+    "id": "4789-MOLLET_HC_A-HOQUEI_CASAL_ESPLUGA_A",
     "date": "2026-10-31T16:45:00",
     "home": "MOLLET HC A",
     "away": "HOQUEI CASAL ESPLUGA A",
@@ -60,7 +60,7 @@
     "status": "played"
   },
   {
-    "id": "ROTOTANK_BIGUES_I_RIELLS-MOLLET_HC_A",
+    "id": "4789-ROTOTANK_BIGUES_I_RIELLS-MOLLET_HC_A",
     "date": "2026-11-08T13:45:00",
     "home": "ROTOTANK BIGUES I RIELLS",
     "away": "MOLLET HC A",
@@ -70,7 +70,7 @@
     "status": "played"
   },
   {
-    "id": "CP_MASQUEFA_A-MOLLET_HC_A",
+    "id": "4789-CP_MASQUEFA_A-MOLLET_HC_A",
     "date": "2026-11-15T11:15:00",
     "home": "CP MASQUEFA A",
     "away": "MOLLET HC A",
@@ -80,7 +80,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_A-CH_CALDES_RECAM_LASER_A",
+    "id": "4789-MOLLET_HC_A-CH_CALDES_RECAM_LASER_A",
     "date": "2026-11-21T16:15:00",
     "home": "MOLLET HC A",
     "away": "CH CALDES RECAM LÀSER A",
@@ -90,7 +90,7 @@
     "status": "played"
   },
   {
-    "id": "MOLLET_HC_A-CE_ARENYS_DE_MUNT_A",
+    "id": "4789-MOLLET_HC_A-CE_ARENYS_DE_MUNT_A",
     "date": "2026-11-28T17:15:00",
     "home": "MOLLET HC A",
     "away": "CE ARENYS DE MUNT A",
@@ -100,7 +100,7 @@
     "status": "scheduled"
   },
   {
-    "id": "CP_SANT_CELONI_A-MOLLET_HC_A",
+    "id": "4789-CP_SANT_CELONI_A-MOLLET_HC_A",
     "date": "2026-12-05T15:30:00",
     "home": "CP SANT CELONI A",
     "away": "MOLLET HC A",
@@ -110,7 +110,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_A-HOQUEI_CASAL_ESPLUGA_B",
+    "id": "4789-MOLLET_HC_A-HOQUEI_CASAL_ESPLUGA_B",
     "date": "2026-12-12T17:00:00",
     "home": "MOLLET HC A",
     "away": "HOQUEI CASAL ESPLUGA B",
@@ -120,7 +120,7 @@
     "status": "scheduled"
   },
   {
-    "id": "HOQUEI_CASAL_ESPLUGA_A-MOLLET_HC_A",
+    "id": "4789-HOQUEI_CASAL_ESPLUGA_A-MOLLET_HC_A",
     "date": "2026-12-20T16:30:00",
     "home": "HOQUEI CASAL ESPLUGA A",
     "away": "MOLLET HC A",
@@ -130,7 +130,7 @@
     "status": "scheduled"
   },
   {
-    "id": "MOLLET_HC_A-ROTOTANK_BIGUES_I_RIELLS",
+    "id": "4789-MOLLET_HC_A-ROTOTANK_BIGUES_I_RIELLS",
     "date": "2027-01-09T15:00:00",
     "home": "MOLLET HC A",
     "away": "ROTOTANK BIGUES I RIELLS",

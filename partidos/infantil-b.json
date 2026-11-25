@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4787-CH_NAVARCLES-MOLLET_HC_B",
+    "date": "2026-09-26T16:15:00",
+    "home": "CH NAVARCLES",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4787-MOLLET_HC_B-ROTOTANK_BIGUES_I_RIELLS_B",
+    "date": "2026-10-03T15:45:00",
+    "home": "MOLLET HC B",
+    "away": "ROTOTANK BIGUES I RIELLS B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4787-FENIE_ENERGIA_CERDANYOLA_CCH_D-MOLLET_HC_B",
+    "date": "2026-10-11T12:15:00",
+    "home": "FENIE ENERGIA CERDANYOLA CCH D",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4787-MOLLET_HC_B-HOQUEI_CLUB_CASTELLAR_B",
+    "date": "2026-10-24T10:00:00",
+    "home": "MOLLET HC B",
+    "away": "HOQUEI CLUB CASTELLAR B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4787-MARTINELIA_MANLLEU_C-MOLLET_HC_B",
+    "date": "2026-10-31T10:00:00",
+    "home": "MARTINELIA MANLLEU C",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4787-MOLLET_HC_B-CP_MANRESA",
+    "date": "2026-11-07T10:00:00",
+    "home": "MOLLET HC B",
+    "away": "CP MANRESA",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4787-CLUB_HOQUEI_CASTELLET-MOLLET_HC_B",
+    "date": "2026-11-14T12:30:00",
+    "home": "CLUB HOQUEI CASTELLET",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4787-MOLLET_HC_B-CH_LES_FRANQUESES",
+    "date": "2026-11-21T17:30:00",
+    "home": "MOLLET HC B",
+    "away": "CH LES FRANQUESES",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4787-GENERALI_HC_PALAU_E-MOLLET_HC_B",
+    "date": "2026-11-28T16:15:00",
+    "home": "GENERALI HC PALAU E",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4787-MOLLET_HC_B-HCSENTMENAT_B",
+    "date": "2026-12-12T12:30:00",
+    "home": "MOLLET HC B",
+    "away": "HCSENTMENAT B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4787-AUTO_VIGATANA_PATI_VIC_C-MOLLET_HC_B",
+    "date": "2026-12-19T15:00:00",
+    "home": "AUTO VIGATANA PATÍ VIC C",
+    "away": "MOLLET HC B",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4787-MOLLET_HC_B-MARISTES_SANT_JOAN",
+    "date": "2027-01-09T16:30:00",
+    "home": "MOLLET HC B",
+    "away": "MARISTES SANT JOAN",
+    "category": "",
+    "competition": "Mollet HC B · Infantil Plata",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  }
+]

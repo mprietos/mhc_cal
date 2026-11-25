@@ -1,0 +1,142 @@
+[
+  {
+    "id": "4816-MOLLET_HC_C-CH_CALDES_RECAM_LASER",
+    "date": "2026-09-26T10:00:00",
+    "home": "MOLLET HC C",
+    "away": "CH CALDES RECAM LÀSER",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4816-UEH_BARBERA-MOLLET_HC_C",
+    "date": "2026-10-03T16:30:00",
+    "home": "UEH BARBERÀ",
+    "away": "MOLLET HC C",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4816-MOLLET_HC_C-IGUALADA_HC_A",
+    "date": "2026-10-11T10:00:00",
+    "home": "MOLLET HC C",
+    "away": "IGUALADA HC A",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4816-CAPELLADES_C-MOLLET_HC_C",
+    "date": "2026-10-17T10:00:00",
+    "home": "CAPELLADES C",
+    "away": "MOLLET HC C",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4816-CH_RIPOLLET-MOLLET_HC_C",
+    "date": "2026-10-25T13:45:00",
+    "home": "CH RIPOLLET",
+    "away": "MOLLET HC C",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4816-MOLLET_HC_C-HF_SANT_JOSEP_SANT_SADURNI_B",
+    "date": "2026-10-31T10:00:00",
+    "home": "MOLLET HC C",
+    "away": "HF SANT JOSEP SANT SADURNÍ B",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4816-JOIERIA_MONER_SANT_RAMON-MOLLET_HC_C",
+    "date": "2026-11-07T11:15:00",
+    "home": "JOIERIA MONER SANT RAMON",
+    "away": "MOLLET HC C",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4816-CH_CALDES_RECAM_LASER-MOLLET_HC_C",
+    "date": "2026-11-14T10:00:00",
+    "home": "CH CALDES RECAM LÀSER",
+    "away": "MOLLET HC C",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "",
+    "status": "played"
+  },
+  {
+    "id": "4816-MOLLET_HC_C-UEH_BARBERA",
+    "date": "2026-11-21T10:00:00",
+    "home": "MOLLET HC C",
+    "away": "UEH BARBERÀ",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "4816-IGUALADA_HC_A-MOLLET_HC_C",
+    "date": "2026-11-28T16:00:00",
+    "home": "IGUALADA HC A",
+    "away": "MOLLET HC C",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4816-MOLLET_HC_C-CAPELLADES_C",
+    "date": "2026-12-13T10:00:00",
+    "home": "MOLLET HC C",
+    "away": "CAPELLADES C",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4816-MOLLET_HC_C-CH_RIPOLLET",
+    "date": "2026-12-19T16:00:00",
+    "home": "MOLLET HC C",
+    "away": "CH RIPOLLET",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "4816-HF_SANT_JOSEP_SANT_SADURNI_B-MOLLET_HC_C",
+    "date": "2027-01-09T11:00:00",
+    "home": "HF SANT JOSEP SANT SADURNÍ B",
+    "away": "MOLLET HC C",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "",
+    "status": "scheduled"
+  },
+  {
+    "id": "4816-MOLLET_HC_C-JOIERIA_MONER_SANT_RAMON",
+    "date": "2027-01-16T10:00:00",
+    "home": "MOLLET HC C",
+    "away": "JOIERIA MONER SANT RAMON",
+    "category": "",
+    "competition": "Mollet HC C · Prebenjamí Iniciació",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  }
+]

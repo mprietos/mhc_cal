@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Coordinador · Mollet HC</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏒</text></svg>" />
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>🏒 Coordinador · Mollet HC</h1>
+    <p class="sub">Tots els partits per cap de setmana, amb avisos de solapaments.</p>
+    <nav><a href="/">← Tornar als calendaris</a></nav>
+  </header>
+
+  <main id="app">
+    <div class="gate" id="gate">
+      <p>Introdueix la contrasenya del coordinador:</p>
+      <input type="password" id="pwd" autofocus />
+      <button id="enter">Entrar</button>
+      <p id="pwderr" class="error" style="display:none">Contrasenya incorrecta.</p>
+    </div>
+    <div id="content" style="display:none"></div>
+  </main>
+
+  <footer>
+    <p id="updated"></p>
+    <p>Avís: la detecció de pista fora no és fiable (la FECAPA no dona l'adreça).</p>
+  </footer>
+
+  <script type="module" src="/js/coordinador.js"></script>
+</body>
+</html>
