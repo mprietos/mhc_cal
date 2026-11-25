@@ -1,10 +1,6 @@
 export const CONFIG_FEM15 = {
-  sourceUrl: 'https://www.server2.sidgad.es/fecapa/fecapa_cal_idc_4802_1.php',
-
-  sourceReferer: 'https://hoqueipatins.fecapa.cat/league/4802',
-  sourceOrigin: 'https://hoqueipatins.fecapa.cat',
-
-  sourceBody: { idc: '4802', site_lang: 'ca' },
+  // ID de la competició (idc) a l'API nova de sidgad. Veure lib/sidgad.js.
+  idc: '4802',
 
   teamMatches: ['MOLLET HC B'],
 

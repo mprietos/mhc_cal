@@ -1,0 +1,142 @@
+[
+  {
+    "id": "MOLLET_HC_A-CP_MASQUEFA_A",
+    "date": "2026-09-27T13:45:00",
+    "home": "MOLLET HC A",
+    "away": "CP MASQUEFA A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "CH_CALDES_RECAM_LASER_A-MOLLET_HC_A",
+    "date": "2026-10-04T15:30:00",
+    "home": "CH CALDES RECAM LÀSER A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Torre Roja, Passatge Torre Roja s/n, Caldes de Montbui",
+    "status": "played"
+  },
+  {
+    "id": "CE_ARENYS_DE_MUNT_A-MOLLET_HC_A",
+    "date": "2026-10-11T10:00:00",
+    "home": "CE ARENYS DE MUNT A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Municipal d'Esports, Torrent d'en Terra s/n, Arenys de Munt",
+    "status": "played"
+  },
+  {
+    "id": "MOLLET_HC_A-CP_SANT_CELONI_A",
+    "date": "2026-10-17T15:30:00",
+    "home": "MOLLET HC A",
+    "away": "CP SANT CELONI A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "HOQUEI_CASAL_ESPLUGA_B-MOLLET_HC_A",
+    "date": "2026-10-24T11:00:00",
+    "home": "HOQUEI CASAL ESPLUGA B",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló David Rovira i Minguella, Carrer del Serè s/n, L'Espluga de Francolí",
+    "status": "played"
+  },
+  {
+    "id": "MOLLET_HC_A-HOQUEI_CASAL_ESPLUGA_A",
+    "date": "2026-10-31T16:45:00",
+    "home": "MOLLET HC A",
+    "away": "HOQUEI CASAL ESPLUGA A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "ROTOTANK_BIGUES_I_RIELLS-MOLLET_HC_A",
+    "date": "2026-11-08T13:45:00",
+    "home": "ROTOTANK BIGUES I RIELLS",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Municipal Les Cremades, Camí del Veïnat 5, Bigues i Riells",
+    "status": "played"
+  },
+  {
+    "id": "CP_MASQUEFA_A-MOLLET_HC_A",
+    "date": "2026-11-15T11:15:00",
+    "home": "CP MASQUEFA A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Municipal de Masquefa, Masquefa",
+    "status": "played"
+  },
+  {
+    "id": "MOLLET_HC_A-CH_CALDES_RECAM_LASER_A",
+    "date": "2026-11-21T16:15:00",
+    "home": "MOLLET HC A",
+    "away": "CH CALDES RECAM LÀSER A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "played"
+  },
+  {
+    "id": "MOLLET_HC_A-CE_ARENYS_DE_MUNT_A",
+    "date": "2026-11-28T17:15:00",
+    "home": "MOLLET HC A",
+    "away": "CE ARENYS DE MUNT A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "CP_SANT_CELONI_A-MOLLET_HC_A",
+    "date": "2026-12-05T15:30:00",
+    "home": "CP SANT CELONI A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Municipal d'Esports, Avinguda Catalunya, Sant Celoni",
+    "status": "scheduled"
+  },
+  {
+    "id": "MOLLET_HC_A-HOQUEI_CASAL_ESPLUGA_B",
+    "date": "2026-12-12T17:00:00",
+    "home": "MOLLET HC A",
+    "away": "HOQUEI CASAL ESPLUGA B",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  },
+  {
+    "id": "HOQUEI_CASAL_ESPLUGA_A-MOLLET_HC_A",
+    "date": "2026-12-20T16:30:00",
+    "home": "HOQUEI CASAL ESPLUGA A",
+    "away": "MOLLET HC A",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló David Rovira i Minguella, Carrer del Serè s/n, L'Espluga de Francolí",
+    "status": "scheduled"
+  },
+  {
+    "id": "MOLLET_HC_A-ROTOTANK_BIGUES_I_RIELLS",
+    "date": "2027-01-09T15:00:00",
+    "home": "MOLLET HC A",
+    "away": "ROTOTANK BIGUES I RIELLS",
+    "category": "",
+    "competition": "Mollet HC A · Aleví",
+    "venue": "Pavelló Riera Seca, Mollet del Vallès",
+    "status": "scheduled"
+  }
+]

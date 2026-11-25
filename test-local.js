@@ -1,24 +1,28 @@
 #!/usr/bin/env node
-// Prueba local: descarga partidos y vuelca el .ics a stdout (o a un archivo).
-// Uso: node test-local.js            -> muestra el .ics en consola
-//      node test-local.js > out.ics  -> guarda el archivo
+// Prova local: obre el portal, descarrega els partits via l'API de sidgad i
+// aboca el .ics a stdout (o a un fitxer).
+// Ús: node test-local.js            -> mostra el .ics per consola
+//     node test-local.js > out.ics  -> desa el fitxer
+//     node test-local.js fem15      -> calendari del Fem 15 en comptes de l'Aleví
 
-import { fetchMatches } from './lib/parse.js';
+import { scrapeMatches } from './lib/sidgad.js';
 import { buildIcal } from './lib/ical.js';
+import { CONFIG as ALEVI } from './config.js';
+import { CONFIG_FEM15 } from './config.fem15.js';
 
-const matches = await fetchMatches();
+const cfg = process.argv[2] === 'fem15' ? CONFIG_FEM15 : ALEVI;
+
+const matches = await scrapeMatches(cfg);
 
 if (matches.length === 0) {
-  console.error('⚠️  No se encontraron partidos. Revisa config.js y el endpoint.');
-  console.error('   Puede que el payload del POST necesite ajuste (ver README).');
+  console.error('⚠️  No s\'han trobat partits. Revisa el config (idc) i lib/sidgad.js.');
   process.exit(1);
 }
 
-console.error(`✅ ${matches.length} partido(s) encontrado(s):`);
+console.error(`✅ ${matches.length} partit(s) trobat(s) [${cfg.calendarName}]:`);
 for (const m of matches) {
   console.error(`   ${m.date ?? '??'} — ${m.home} vs ${m.away} (${m.venue || 'lloc?'})`);
 }
 console.error('');
 
-const ical = buildIcal(matches);
-process.stdout.write(ical);
+process.stdout.write(buildIcal(matches, cfg));

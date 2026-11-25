@@ -1,21 +1,16 @@
 // Ajusta aquí qué equipo/categoría seguir y el endpoint de datos.
 export const CONFIG = {
-  // Endpoint real (sidgad). El 4789 es el ID de liga; cámbialo si sigues otra.
-  sourceUrl:
-    process.env.SOURCE_URL ||
-    'https://www.server2.sidgad.es/fecapa/fecapa_cal_idc_4789_1.php',
-
-  // Referer requerido por el servidor para devolver el HTML con datos.
-  sourceReferer: 'https://hoqueipatins.fecapa.cat/league/4789',
-  sourceOrigin: 'https://hoqueipatins.fecapa.cat',
-
-  sourceBody: { idc: '4789', site_lang: 'ca' },
+  // ID de la competició (idc) a l'API nova de sidgad. Es demana amb
+  // window.sidgadFetch('calendar', { id: idc }) des del portal (veure lib/sidgad.js).
+  // El 4789 és la lliga Aleví sencera; canvia'l si segueixes una altra.
+  idc: '4789',
 
   // Filtro por equipo (case-insensitive, ignora acentos).
   teamMatches: ['MOLLET HC A'],
 
-  // Filtro extra por categoría (vacío = ignorar).
-  categoryMatches: ['ALEVÍ'],
+  // Filtro extra por categoría (vacío = ignorar). L'idc 4789 ja és Aleví, així
+  // que no cal filtrar: la categoria ja no ve per partit a l'API nova.
+  categoryMatches: [],
 
   // Pista local del equipo seguido.
   homeVenue: 'Pavelló Riera Seca, Mollet del Vallès',

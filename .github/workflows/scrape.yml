@@ -1,0 +1,42 @@
+name: Actualitza calendaris FECAPA
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # cada dia a les 07:00 CET (06:00 UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Instal·la dependències
+        run: npm ci || npm install
+
+      - name: Scrape i genera .ics
+        run: node scripts/scrape.js
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Commiteja canvis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add calendario_*.ics partidos/*.json
+          if git diff --cached --quiet; then
+            echo "Sense canvis als fitxers"
+          else
+            git commit -m "chore: actualitza calendaris FECAPA [automated]"
+            git push
+          fi
