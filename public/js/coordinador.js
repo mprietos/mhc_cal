@@ -117,18 +117,27 @@ async function render() {
   draw();
 }
 
-// Barra de filtres: equip, rang de dates, només avisos.
+// Barra de filtres: equips (multi-selecció), rang de dates, només avisos.
 function buildFilterBar() {
   const teamsSorted = [...DATA.teams].sort((a, b) => a.calendarName.localeCompare(b.calendarName));
   const bar = document.createElement('div');
   bar.className = 'filters';
   bar.innerHTML = `
-    <label>Equip
-      <select id="f-team">
-        <option value="">Tots els equips</option>
-        ${teamsSorted.map((t) => `<option value="${t.slug}">${t.calendarName}</option>`).join('')}
-      </select>
-    </label>
+    <div class="teamfilter">
+      <span class="lbl">Equips</span>
+      <details class="teamdd">
+        <summary id="f-team-summary">Tots els equips</summary>
+        <div class="teamdd-body">
+          <div class="teamdd-actions">
+            <button type="button" id="f-team-all">Tots</button>
+            <button type="button" id="f-team-none">Cap</button>
+          </div>
+          ${teamsSorted.map((t) => `
+            <label class="chk"><input type="checkbox" class="f-team" value="${t.slug}" /> ${t.calendarName}</label>
+          `).join('')}
+        </div>
+      </details>
+    </div>
     <label>Des de <input type="date" id="f-from" /></label>
     <label>Fins a <input type="date" id="f-to" /></label>
     <label class="chk"><input type="checkbox" id="f-alerts" /> Només amb avisos</label>
@@ -136,20 +145,42 @@ function buildFilterBar() {
   `;
   content.before(bar);
 
-  bar.addEventListener('input', draw);
+  const refresh = () => { updateTeamSummary(); draw(); };
+  bar.addEventListener('input', refresh);
+  bar.querySelector('#f-team-all').addEventListener('click', () => {
+    bar.querySelectorAll('.f-team').forEach((c) => (c.checked = true));
+    refresh();
+  });
+  bar.querySelector('#f-team-none').addEventListener('click', () => {
+    bar.querySelectorAll('.f-team').forEach((c) => (c.checked = false));
+    refresh();
+  });
   bar.querySelector('#f-reset').addEventListener('click', (e) => {
     e.preventDefault();
-    bar.querySelector('#f-team').value = '';
+    bar.querySelectorAll('.f-team').forEach((c) => (c.checked = false));
     bar.querySelector('#f-from').value = '';
     bar.querySelector('#f-to').value = '';
     bar.querySelector('#f-alerts').checked = false;
-    draw();
+    refresh();
   });
+}
+
+function updateTeamSummary() {
+  const sel = selectedTeams();
+  const sum = document.getElementById('f-team-summary');
+  if (!sum) return;
+  if (!sel.length) sum.textContent = 'Tots els equips';
+  else if (sel.length === 1) sum.textContent = nameBySlug.get(sel[0]) || sel[0];
+  else sum.textContent = `${sel.length} equips seleccionats`;
+}
+
+function selectedTeams() {
+  return [...document.querySelectorAll('.f-team:checked')].map((c) => c.value);
 }
 
 function currentFilters() {
   return {
-    team: document.getElementById('f-team')?.value || '',
+    teams: selectedTeams(), // buit = tots
     from: document.getElementById('f-from')?.value || '',
     to: document.getElementById('f-to')?.value || '',
     onlyAlerts: document.getElementById('f-alerts')?.checked || false,
@@ -172,7 +203,9 @@ function draw() {
       if (minDate) { if (dayStr < minDate) return false; }
       else if (d < today) return false;        // sense "des de" -> només futurs
       if (f.to && dayStr > f.to) return false;
-      if (f.team && !m.teams.includes(f.team)) return false;
+      // Multi-selecció d'equips: buit = tots; si no, el partit ha d'incloure
+      // algun dels equips seleccionats.
+      if (f.teams.length && !m.teams.some((s) => f.teams.includes(s))) return false;
       return true;
     })
     .sort((a, b) => a.date.localeCompare(b.date));
