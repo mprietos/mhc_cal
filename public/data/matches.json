@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:34:42.284Z",
+  "generatedAt": "2026-11-27T16:20:19.257Z",
   "teams": [
     {
       "slug": "cat-1a-fem",
@@ -2924,6 +2924,19 @@
       ]
     },
     {
+      "id": "4802-OXFORD_HC_SALT-MOLLET_HC_A",
+      "date": "2026-12-05T12:15:00",
+      "home": "OXFORD HC SALT",
+      "away": "MOLLET HC A",
+      "category": "Fem 15",
+      "competition": "Mollet HC A · Fem 15 Or",
+      "venue": "Pavelló Municipal de Salt, Carrer de la Sèquia 2, Salt",
+      "status": "scheduled",
+      "teams": [
+        "fem15-a"
+      ]
+    },
+    {
       "id": "4784-MOLLET_HC_A-INNOAESTHETICS_HC_SANT_JUST",
       "date": "2026-12-05T12:30:00",
       "home": "MOLLET HC A",
@@ -2947,19 +2960,6 @@
       "status": "scheduled",
       "teams": [
         "alevi-a"
-      ]
-    },
-    {
-      "id": "4802-OXFORD_HC_SALT-MOLLET_HC_A",
-      "date": "2026-12-05T18:30:00",
-      "home": "OXFORD HC SALT",
-      "away": "MOLLET HC A",
-      "category": "Fem 15",
-      "competition": "Mollet HC A · Fem 15 Or",
-      "venue": "Pavelló Municipal de Salt, Carrer de la Sèquia 2, Salt",
-      "status": "scheduled",
-      "teams": [
-        "fem15-a"
       ]
     },
     {
@@ -3730,6 +3730,19 @@
       ]
     },
     {
+      "id": "4814-CLUB_HOQUEI_ARENYS_DE_MAR_A-MOLLET_HC_A",
+      "date": "2027-01-10T09:45:00",
+      "home": "CLUB HOQUEI ARENYS DE MAR A",
+      "away": "MOLLET HC A",
+      "category": "Prebenjamí",
+      "competition": "Mollet HC A · Prebenjamí Plata",
+      "venue": "",
+      "status": "scheduled",
+      "teams": [
+        "prebenjami-a"
+      ]
+    },
+    {
       "id": "4811-CP_CONGRES_C-MOLLET_HC_A",
       "date": "2027-01-10T10:00:00",
       "home": "CP CONGRES C",
@@ -3740,19 +3753,6 @@
       "status": "scheduled",
       "teams": [
         "benjami-a"
-      ]
-    },
-    {
-      "id": "4814-CLUB_HOQUEI_ARENYS_DE_MAR_A-MOLLET_HC_A",
-      "date": "2027-01-10T10:00:00",
-      "home": "CLUB HOQUEI ARENYS DE MAR A",
-      "away": "MOLLET HC A",
-      "category": "Prebenjamí",
-      "competition": "Mollet HC A · Prebenjamí Plata",
-      "venue": "",
-      "status": "scheduled",
-      "teams": [
-        "prebenjami-a"
       ]
     },
     {
